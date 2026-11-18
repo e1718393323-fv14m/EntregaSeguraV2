@@ -4,7 +4,7 @@ namespace EntregaSegura
     {
         public App()
         {
-            InitializeComponent();
+            InitializeComponent(); //
             UserAppTheme = AppTheme.Light;   
         }
 
